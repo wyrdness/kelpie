@@ -1,366 +1,181 @@
 # Kelpie
 
-> *"Beware the bonnie horse by the loch-side, for it will drag you to your doom."*
+> A shape-shifting water spirit of Scottish folklore, most often appearing as a horse near rivers and lochs, that lures victims onto its back and drags them underwater to drown.
 
-[![API Version](https://img.shields.io/badge/api-v1.0.0-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026--01--14-green)]()
-[![Status](https://img.shields.io/badge/status-traditional--folklore-brightgreen)]()
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-07-green)]() [![Sightings](https://img.shields.io/badge/sightings-0-orange)]() ![Status](https://img.shields.io/badge/status-documented-blue)
 
 ---
-
 ## Quick Reference
 
 | Property | Value |
-|----------|-------|
+|---|---|
 | **ID** | `kelpie` |
 | **Category** | SHAPESHIFTER |
-| **Classification** | Fae Folklore / Water Horse |
-| **First Recorded** | ~1500s (oral tradition much older) |
-| **Primary Region** | Scotland (rivers and freshwater lochs) |
-| **Status** | Traditional folklore |
-| **Danger Level** | High (malevolent) |
+| **Subcategory** | Water spirit / water-horse |
+| **First recorded** | 1759-01-01 |
+| **Primary range** | Scotland, particularly the Highlands and the major river systems and lochs |
+| **Status** | documented |
 
 ---
-
 ## Overview
 
-The kelpie is a malevolent water spirit from Scottish folklore that typically manifests as a beautiful black horse near rivers and lochs. The creature lures unsuspecting humans, particularly children, to mount it, at which point the rider becomes stuck to the kelpie's adhesive skin and is dragged underwater to drown and be devoured.
-
-Kelpies can also appear in human form, usually as handsome young men or beautiful women, but always betray their nature through cold, wet skin and water weeds entangled in their hair.
-
-In Scottish folklore, kelpies served as cautionary tales warning children about the dangers of water. Capture is possible by bridling the kelpie, which removes its power and makes it an obedient servant.
+The kelpie (or water-kelpie) is a shape-shifting water spirit prominent in Scottish folklore and attested across the British Isles in cognate forms — the Highland each-uisge, Manx cabyll-ushtey, Welsh Ceffyl Dŵr, and the Orcadian tangie among others. It typically appears as a powerful, beautiful horse — most often black, sometimes grey or white — at the bank of a river, loch, or pool. Folkloric accounts emphasize an adhesive coat that traps any rider onto its back; the kelpie then plunges into the water and drowns its victim, sometimes devouring all but the entrails. It can also assume human form, generally a handsome young man or woman, but betrays itself by water-weeds in the hair, cold wet skin, or — in some variants — hooves it cannot fully conceal. A related body of tradition holds that a kelpie may be controlled by a person who can seize or pierce the bridle that often appears around its neck, after which the spirit becomes a powerful but resentful servant. The figure functioned in Scottish rural society as both an explanation for unexplained drownings and as a cautionary tale warning children away from dangerous water and young women from charming strangers.
 
 ---
+## Names & Aliases
 
-## Etymology & Names
+| Name | Origin | Meaning |
+|---|---|---|
+| Water-kelpie | Scots / Scotland |  |
+| Each-uisge | Scottish Gaelic / Scottish Highlands and Islands | 'water horse' — the loch-dwelling cousin of the river kelpie |
+| Each-uisce | Irish Gaelic / Ireland | Irish counterpart |
+| Cabyll-ushtey | Manx / Isle of Man | 'water horse' |
+| Ceffyl Dŵr | Welsh / Wales | 'water horse' |
+| Nuggle | Shetland Scots / Shetland | Shetland water-horse variant |
+| Tangie | Orcadian Scots / Orkney | seaweed-haired Orkney water-horse |
 
-### Primary Name
-- **Kelpie** — From Scottish Gaelic "cailpeach" or "colpach," possibly related to "colt"
+## Etymology
 
-### Alternative Names
-
-| Name | Language/Region | Meaning |
-|------|-----------------|---------|
-| Water Kelpie | English/Scots | "Water horse" |
-| Each-Uisge | Scottish Gaelic | "Water horse" (more dangerous sea variant) |
-| Ceffyl Dŵr | Welsh | "Water horse" |
-| Cabyll-Ushtey | Manx (Isle of Man) | "Water horse" |
-
----
-
-## Classification
-
-### Taxonomy
-```
-Category: SHAPESHIFTER
-├── Type: Fae/Spirit
-├── Subtype: Water horse
-└── Variant: Freshwater (rivers/lochs)
-```
-
-### Related Phenomena
-
-| Phenomenon | Relationship | Description |
-|------------|--------------|-------------|
-| [Each-Uisge](/each-uisge) | Variant | More dangerous sea loch variant |
-| [Nuckelavee](/nuckelavee) | Related | Orcadian sea demon, also water horse type |
-| Nixie/Nix | Similar | Germanic water spirit shapeshifter |
-| [Selkie](/selkie) | Related | Scottish shapeshifter, but benign |
+- **Origin**: Likely from Scottish Gaelic 'cailpeach' or 'colpach' ('heifer, colt'), via Scots 'kelpie'. The Gaelic each-uisge ('water horse') is a parallel native term for the loch-dwelling form.
+- **Meaning**: 'Water horse' or 'water colt' — a horse-formed water spirit.
+- **First use**: The earliest known printed use of 'kelpie' in English is in William Collins's manuscript ode 'On the Popular Superstitions of the Highlands of Scotland', composed before 1759; the term then appears in Robert Burns's 'Address to the Devil' (1786).
 
 ---
+## Related Phenomena
 
-## Characteristics
-
-### Physical Description
-
-**Horse Form:**
-- Usually appears as a beautiful black horse
-- Occasionally white or dappled grey
-- Exceptionally handsome and appealing
-- Cold, clammy skin
-- Water plants in mane and tail
-- **Adhesive skin** — victims cannot dismount once they touch it
-
-**Human Form:**
-- Beautiful young man or woman
-- Pale complexion
-- **Cold, wet skin** (telltale sign)
-- **Water plants in hair** (key identifier)
-- Hair remains damp
-- Exceptionally attractive to lure victims
-
-### Reported Abilities
-
-| Ability | Description | Frequency |
-|---------|-------------|-----------|
-| Shapeshifting | Transform between horse and human form | Always |
-| Adhesive skin | Victims stuck once they touch or mount | Always |
-| Superhuman strength | Can drag multiple victims underwater | Always |
-| Luring | Supernaturally attractive to victims | Common |
-| Water control | May control water levels and currents | Occasional |
-
-### Behavioral Patterns
-
-- **Activity Period**: Variable (day and night)
-- **Disposition**: Malevolent, dangerous
-- **Social Structure**: Solitary
-- **Habitat Preference**: Rivers, freshwater lochs, streams, waterfalls, fords
-
-**Hunting Pattern:**
-1. Appears as beautiful horse near water
-2. Attracts victims, especially children
-3. Victim mounts or touches the kelpie
-4. Skin becomes adhesive — victim stuck
-5. Kelpie drags victim underwater
-6. Victim drowns and is devoured
-
-**Alternative Pattern (Human Form):**
-- Appears as attractive human
-- Seduces victim
-- Lures them to water
-- Transforms and drowns them
-
-### Weaknesses & Defenses
-
-| Weakness | Description | Severity |
-|----------|-------------|----------|
-| **Bridle** | Placing bridle on kelpie removes its power | Critical |
-| **Silver** | Silver weapons or objects can harm/repel | High |
-| **Rowan wood** | Provides protection against kelpie | Medium |
-| **Speaking its name** | Recognizing and naming it may break power | Medium |
+- [Each-uisge](../each-uisge/) — _regional_variant_: Highland Gaelic loch-dwelling water-horse, often considered more dangerous than the river kelpie
+- [Nykur (Nennir)](../nykur/) — _similar_: Icelandic water-horse with reversed hooves; a North Atlantic counterpart
+- [Bunyip](../bunyip/) — _similar_: Australian water-spirit that, like the kelpie, embodies the lethal danger of inland waters
+- [Nixie / Nix](../nixie/) — _similar_: Germanic water spirit, sometimes equine, paralleling the kelpie's role
+- [Ceffyl Dŵr](../ceffyl-dwr/) — _regional_variant_: Welsh water-horse
 
 ---
+## Physical Description
 
-## Geographic Distribution
+- **Coloration**: black, grey, white
+- **Morphology**: Equine in primary form; can take human shape but never fully conceals its watery nature.
 
-### Primary Range
+### Features
 
-Throughout Scotland, particularly in the Highlands and islands. Found wherever there are rivers, lochs, and streams. Similar creatures exist in Wales, Isle of Man, and Ireland.
+| Feature | Description | Frequency |
+|---|---|---|
+| Equine form | Most often appears as a powerful, beautiful horse near water | always |
+| Adhesive coat | Anyone who mounts becomes stuck to its back and cannot dismount | common |
+| Water weeds in hair (in human form) | Even in human guise the kelpie is betrayed by waterweeds, river silt, or perpetually damp hair | common |
+| Reversed or unusual hooves | In some accounts (especially Aberdeenshire and the each-uisge) the hooves are reversed or kept hidden | occasional |
+| Magical bridle | Some traditions describe a magical bridle that, if seized, gives a human power over the kelpie | occasional |
 
-### Notable Locations
+## Reported Abilities
 
-| Location | Region | Significance |
-|----------|--------|--------------|
-| Loch Ness | Scottish Highlands | Associated with kelpie legends before Nessie fame |
-| River Forth | Central Scotland | Multiple kelpie tales |
-| Highland lochs | Throughout Highlands | Nearly every loch has water horse tales |
-| Fords and river crossings | Scotland-wide | Dangerous crossing points |
+| Ability | Description | Frequency | Evidence |
+|---|---|---|---|
+| Shapeshifting | Transforms between equine and human forms | always | folklore |
+| Adhesive skin / lengthening back | Coat sticks riders fast; in some versions the back can extend to carry many children at once | common | folklore |
+| Drowning attack | Plunges into water to drown rider; sometimes consumes the body, leaving only entrails | always | folklore |
+| Calling storms / floods | Some Highland traditions associate the kelpie with sudden storms and rising water | occasional | folklore |
 
----
+## Behavior
 
-## Common Narratives
-
-### The Lured Children
-
-Classic cautionary tale pattern:
-
-1. Children playing near river or loch
-2. Beautiful horse appears, seems tame and friendly
-3. Children pet the horse or climb onto its back
-4. They become stuck to its adhesive skin
-5. Horse plunges into water, dragging children to their deaths
-6. Only way to escape: cut off your own fingers stuck to the horse
-
-### The Kelpie's Bridle
-
-Capture and servitude story:
-
-1. Brave person encounters kelpie in horse form
-2. Manages to place bridle over its head
-3. Kelpie loses its supernatural powers
-4. Becomes obedient servant, incredibly strong
-5. Forced to perform impossible labor (building bridges, churches)
-6. If bridle removed, kelpie escapes back to water
-
-### The Human Form Seduction
-
-Romantic danger variant:
-
-1. Handsome stranger appears near water
-2. Seduces unsuspecting victim
-3. Telltale signs: cold skin, damp hair, water weeds
-4. Leads victim to water's edge
-5. Transforms and drowns victim
+- **Activity**: variable
+- **Disposition**: aggressive
+- **Social structure**: solitary
+- **Habitat**: deep river pools, lochs, fords, waterfalls, pools at burns and bends in rivers
+- **Diet**: Carnivorous in folklore; said to devour drowned victims, leaving only their entrails on the shore
 
 ---
+## Distribution
 
+Scotland, particularly the Highlands and the major river systems and lochs; cognate water-horse traditions across Ireland, the Isle of Man, Wales, the Hebrides, Orkney, and Shetland.
+
+### Hotspots
+
+| Location | Region | Sightings | Peak |
+|---|---|---|---|
+| Loch Ness | Scottish Highlands, United Kingdom |  | Folklore tradition; pre-19th century |
+| River Spey | Scotland, United Kingdom |  | Traditional folklore |
+
+---
 ## Historical Timeline
 
-### Origins
-
-Ancient Scottish water spirit folklore serving as cautionary tales about water dangers. Reflects the deadly nature of Scotland's deep lochs and swift rivers.
-
-### Key Moments
-
 | Date | Event | Significance |
-|------|-------|--------------|
-| Pre-1500 | Oral tradition | Kelpie tales warn of water dangers |
-| 1500s-1600s | Written records | First documentation in Scottish texts |
-| 1724 | Literary references | Early poetry mentions |
-| 1800s | Romantic era revival | Victorian folklore interest spreads tales |
-| 2013-2014 | The Kelpies sculptures | Massive public art installation |
+|---|---|---|
+| 1759-01-01 | William Collins's ode 'On the Popular Superstitions of the Highlands of Scotland' published, containing the earliest widely cited literary reference to the kelpie | Anchors the English-language literary record |
+| 1786-01-01 | Robert Burns publishes 'Address to the Devil', referring to 'water-kelpies' haunting the fords by night | Embeds the kelpie in canonical Scottish literature |
+| 1830-01-01 | Walter Scott discusses water-horses, kelpies and each-uisge in 'Letters on Demonology and Witchcraft' | Standardizes the educated 19th-century framing |
+| 1860-01-01 | John Francis Campbell publishes Popular Tales of the West Highlands, gathering Highland water-horse tales in Gaelic and English | Foundational ethnographic source |
+| 1900-01-01 | John Gregorson Campbell publishes Superstitions of the Highlands and Islands of Scotland, with substantial each-uisge / kelpie material | Late-Victorian field synthesis |
+| 2013-10-01 | Andy Scott's 30-metre-tall steel sculptures 'The Kelpies' open at Helix Park, Falkirk | Contemporary monumental embodiment of the legend |
 
-### Modern Era
+## Evidence
 
-Kelpie folklore remains strong in Scottish culture. The massive Kelpies sculptures near Falkirk (completed 2013) demonstrate continued cultural significance. Kelpies appear frequently in Scottish literature, fantasy fiction, and tourism.
+### Documentary
 
----
-
-## Cultural Significance
-
-### Scottish Tradition
-
-> ⚠️ **Cultural Sensitivity Note**: Kelpie folklore is traditional Scottish cultural heritage, part of living folklore traditions.
-
-**Purpose:**
-- **Water safety education** — Warned children of drowning danger
-- **Respect for nature** — Taught caution around water
-- **Moral lessons** — Dangers of temptation and deceptive appearances
-
-**Communities:**
-- Scottish Highlanders
-- Scottish Lowlanders
-- Orcadians and Shetlanders
-- All regions with significant water bodies
-
-### Symbolism & Themes
-
-**Core Themes:**
-- **Deceptive beauty** — Danger hidden beneath attractive appearance
-- **Untameable nature** — Wild things cannot be domesticated
-- **Fatal attraction** — Temptation leading to destruction
-- **Water danger** — Real hazards of Scottish lochs and rivers
-- **Recognition** — Importance of seeing true nature
-
-**Practical Function:**
-- Kept children away from dangerous water
-- Explained drownings
-- Maintained respect for natural hazards
-
-### Popular Culture
-
-**Art:**
-- **The Kelpies** by Andy Scott (2013-2014) — 30-meter tall horse head sculptures, major Scottish landmark
-- Victorian fairy paintings
-- Modern fantasy art
-
-**Literature:**
-- Robert Burns poetry references
-- Walter Scott folklore collections
-- Modern fantasy (Poul Anderson, Mercedes Lackey)
-- Maggie Stiefvater's *The Scorpio Races* (kelpie-inspired)
-
-**Tourism:**
-- The Kelpies attraction near Falkirk
-- Scottish folklore tours
-- Highland water spirit trails
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Robert Burns — 'Address to the Devil' (1786) | 1786 | Reference to 'water-kelpies' haunting fords at night. | verified |
+| Popular Tales of the West Highlands | 1860 | Highland water-horse stories collected in Gaelic and English. | verified |
 
 ---
+## Theories & Explanations
 
-## The Kelpies Monument
+### Paranormal / Cryptozoological
 
-The Kelpies are the largest equine sculptures in the world:
-- Location: The Helix park, Falkirk, Scotland
-- Height: 30 meters (100 feet)
-- Material: Structural steel with stainless steel cladding
-- Completed: 2013-2014
-- Artist: Andy Scott
-- Significance: Celebrates Scotland's industrial heritage and kelpie folklore
-- Tourism: Major landmark, millions of visitors
+**Genuine water spirit** _(Traditional Scottish folk culture)_
 
----
+Within Highland and Hebridean folk belief, the kelpie is a real spirit of the water demanding caution and respect.
 
-## Theories & Interpretations
+### Skeptical
 
-### Folklore Analysis
+**Cautionary folklore for water hazards** _(Katharine Briggs, Donald A. Mackenzie, Modern folklore scholarship)_
 
-**Water Safety Education**
-- Primary function: warning children about drowning
-- Scotland's many dangerous lochs and rivers
-- Practical necessity in communities near water
+Scholarly consensus holds the kelpie functions as a culturally encoded warning against drowning in deep water and against trusting strangers, with the horse imagery reinforcing the lethal speed and power of moving water.
 
-**Natural Phenomenon Personification**
-- Kelpies represent whirlpools, currents, sudden floods
-- Specific dangerous locations have kelpie stories
-- Behavioral parallels to water hazards
 
-**Celtic Water Spirit Tradition**
-- Part of ancient Celtic animistic beliefs
-- Water spirits inhabiting natural features
-- Related to sacred well and water worship
+## Popular Culture
 
-### Origin Theories
+**Literature**: Robert Burns — Address to the Devil (1786); Walter Scott — Letters on Demonology and Witchcraft (1830); J. F. Campbell — Popular Tales of the West Highlands (1860–62); Mollie Hunter — The Kelpie's Pearls (1964); Maggie Stiefvater — The Scorpio Races (2011)
 
-**Animistic Water Worship**
-- Evolved from Celtic water spirit beliefs
-- Pre-Christian water veneration
-- Offerings to water deities
+**Film / TV**: Outlander (TV series) — references to water-horses; The Water Horse: Legend of the Deep (2007) — kelpie/each-uisge inflected
 
-**Practical Warning System**
-- Created to explain drownings
-- Warned about specific dangerous locations
-- Maintained through oral tradition
+**Games**: Magic: The Gathering — Kelpie creature cards; Final Fantasy series — Kelpie summons / monsters; The Witcher 3: Wild Hunt — Roach is comically nicknamed Kelpie in DLC
+
+**Other**: Andy Scott — The Kelpies (Helix Park, Falkirk, 2013), 30-metre steel horse-head sculptures
 
 ---
+## Research
 
-## How to Report Folklore
+### Researchers
 
-If you have kelpie stories from your family or community:
+| Name | Affiliation | Contribution | Period |
+|---|---|---|---|
+| Walter Scott | Author and folklorist | Early literary synthesis of Scottish supernatural belief including kelpies | 1810–1832 |
+| John Francis Campbell of Islay | Folklorist | Foundational fieldwork on Highland water-horse and kelpie tales | 1850s–1880s |
+| John Gregorson Campbell | Minister and folklorist (Tiree) | Detailed Hebridean each-uisge / kelpie ethnography | 1880s–1900 |
+| Katharine Briggs | Folklorist | Comprehensive English-language reference works on British fairy and water-spirit lore | 1950s–1980s |
 
-1. **GitHub Issue**: [Submit Folklore Report](../../issues/new?template=folklore_report.yml)
-2. **Required Information**:
-   - Geographic origin
-   - How story was passed down
-   - Specific water body associated
-   - Any unique elements
+### Organizations
 
-See [Contributing Guidelines](https://github.com/wyrdness/.github/blob/main/CONTRIBUTING.md) for full submission requirements.
+- [School of Scottish Studies, University of Edinburgh](https://www.ed.ac.uk/literatures-languages-cultures/celtic-scottish-studies) — Archive of Scottish folklore and oral tradition including water-horse material
+- [The Folklore Society](https://folklore-society.com) — Academic journal Folklore frequently publishes on water-horse traditions
 
----
-
-## API Reference
-
-Machine-readable data is available in [`api.json`](api.json).
-
-### Data Access
-
-```javascript
-// Using WyrdnessAPI
-const wyrd = new WyrdnessAPI();
-const kelpie = await wyrd.getPhenomenon('kelpie');
-```
-
-### Direct Access
-
-```
-Raw JSON: https://raw.githubusercontent.com/wyrdness/kelpie/main/api.json
-```
+Modern folkloristics continues to compare British and pan-European water-horse traditions; ecology-of-place research has revisited why kelpie tales cluster at specific topographic sites.
 
 ---
+## Sources
 
-## Sources & References
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
 
-See [SOURCES.md](SOURCES.md) for complete bibliography.
 
-### Primary Sources
+## How to Report a Sighting
 
-- Briggs, K. (1976). *A Dictionary of Fairies*. Penguin Books.
-- Campbell, J.F. (1900). *Popular Tales of the West Highlands*. Alexander Gardner.
-- Mackenzie, W. (1917). *Scottish Folk-Lore and Folk Life*. Blackie & Son.
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
 
 ---
-
 ## License
 
-- **Content**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- **Data**: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
-
-<div align="center">
-
-*Part of the [Wyrdness](https://github.com/wyrdness) Paranormal Archive*
-
-[Report Folklore](../../issues/new?template=folklore_report.yml) • [Suggest Correction](../../issues/new?template=correction.yml) • [Full API](api.json)
-
-</div>
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._
